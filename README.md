@@ -9,7 +9,7 @@ copy你的代码，然后投放到assets目录下common文件里面，启动andr
 <br/>
 ![截图1](https://github.com/CMzhizhe/CopyAndWrite/blob/master/app/pic/%E6%88%AA%E5%9B%BE1.jpg)
 <br/>
-结果页面如下
+catch 目录拿结果
 <br/>
 ![截图2](https://github.com/CMzhizhe/CopyAndWrite/blob/master/app/pic/%E6%88%AA%E5%9B%BE2.jpg)
 <br/>
