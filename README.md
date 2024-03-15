@@ -1,0 +1,2 @@
+# CopyAndWrite
+读取assets下的目录文件，然后写入到android的catch目录
